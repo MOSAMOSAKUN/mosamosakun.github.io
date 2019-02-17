@@ -1,6 +1,8 @@
 {
   "short_name": "MMK",
   "name": "MOSAMOSAKUN",
+  "description": "My First Appircation",
+  "orientation": "any",
   "icons": [
     {
       "src": "/images/icon/32.png",
