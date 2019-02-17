@@ -3,27 +3,27 @@
   "name": "MOSAMOSAKUN",
   "icons": [
     {
-      "src": "/images/icon/32px",
+      "src": "/images/icon/32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/images/icon/64px",
+      "src": "/images/icon/64.png",
       "type": "image/png",
       "sizes": "64x64"
     },
         {
-      "src": "/images/icon/128px",
+      "src": "/images/icon/128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
         {
-      "src": "/images/icon/256px",
+      "src": "/images/icon/256.png",
       "type": "image/png",
       "sizes": "256x256"
     },
         {
-      "src": "/images/icon/512px",
+      "src": "/images/icon/512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
