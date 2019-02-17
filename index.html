@@ -10,6 +10,13 @@
 </head>
 <body>
   <!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS7XL6M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+           .register('/sw.js')
+           .then(function() { console.log("Service Worker Registered"); });
+}
+</script>
   <h1>MOSAMOSAKUN.github.io</h1>
   <ul>
     <li><a href="/">Home</a></li>
