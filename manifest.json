@@ -1,0 +1,32 @@
+{
+  "short_name": "MMK",
+  "name": "MOSAMOSAKUN",
+  "icons": [
+    {
+      "src": "/images/icon/32px",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/images/icon/64px",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+        {
+      "src": "/images/icon/128px",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+        {
+      "src": "/images/icon/256px",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+        {
+      "src": "/images/icon/512px",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/"
+}
