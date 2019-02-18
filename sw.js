@@ -3,7 +3,7 @@ const CACHE_NAME = 'pwa-sample-caches-v1';
 // Cache targets
 const urlsToCache = [
   './',
-  './index.html',
+  './index.html?v2',
 ];
 
 self.addEventListener('install', (event) => {
