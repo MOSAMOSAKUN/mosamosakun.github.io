@@ -6,6 +6,7 @@ const urlsToCache = [
   '/index.html?v2',
   '/favicon.ico',
   '/manifest.json',
+  'https://www.googletagmanager.com/ns.html?id=GTM-TS7XL6M',
 ];
 
 self.addEventListener('install', (event) => {
