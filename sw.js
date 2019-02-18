@@ -2,8 +2,10 @@
 const CACHE_NAME = 'pwa-sample-caches-v1';
 // Cache targets
 const urlsToCache = [
-  './',
-  './index.html?v2',
+  '/',
+  '/index.html?v2',
+  '/favicon.ico',
+  '/manifect.json',
 ];
 
 self.addEventListener('install', (event) => {
